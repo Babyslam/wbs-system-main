@@ -1,0 +1,75 @@
+// Override Bootstrap default variables here
+
+// Colors
+$blue: #0d6efd !default;
+$indigo: #6610f2 !default;
+$purple: #6f42c1 !default;
+$pink: #d63384 !default;
+$red: #ff0000 !default;
+$orange: #ff6701 !default;
+$yellow: #ffc107 !default;
+$green: #42ff00 !default;
+$teal: #20c997 !default;
+$cyan: #0dcaf0 !default;
+
+$white: #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black: #000 !default;
+
+// Custom Colors
+$denim: #202249 !default;
+$gray-primary: #f9fbfc !default;
+$gray-secondary: #f7fafc !default;
+$gray-1: #d9d9d9;
+$body-text: #333333 !default;
+$blue-light: #d4ebff !default;
+$orange-light: #ffdbc2 !default;
+
+// Bootstrap Color Override
+$primary: $denim !default;
+$secondary: #706a6a !default;
+$success: $green !default;
+$info: $cyan !default;
+$warning: $yellow !default;
+$danger: $red !default;
+$light: $gray-100 !default;
+$dark: $gray-900 !default;
+
+// Body
+$body-bg: #f5f5f5 !default;
+$body-color: $black !default;
+$font-family-sans-serif: "Poppins", sans-serif !default;
+
+// Border Radius
+$border-radius: 12px !default;
+$border-radius-sm: 10px !default;
+$border-radius-lg: 18px !default;
+$border-radius-xl: 24px !default;
+$border-radius-2xl: 32px !default;
+$border-radius-pill: 50rem !default;
+
+// Box Shadow
+$box-shadow: 0 0.5rem 1rem rgba($black, 0.15) !default;
+$box-shadow-sm: 0 0.125rem 0.25rem rgba($black, 0.075) !default;
+$box-shadow-lg: 0 1rem 3rem rgba($black, 0.175) !default;
+$box-shadow-inset: inset 0 1px 2px rgba($black, 0.075) !default;
+
+// Font Weight
+$font-weight-lighter: lighter !default;
+$font-weight-light: 300 !default;
+$font-weight-normal: 400 !default;
+$font-weight-semibold: 600 !default;
+$font-weight-bold: 700 !default;
+$font-weight-bolder: bolder !default;
+
+// Icons
+$icons-carret: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxOSAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5IDEwTDAuMjUwMDAxIDE5LjUyNjNMMC4yNTAwMDIgMC40NzM3MkwxOSAxMFoiIGZpbGw9IiMyMDIyNDkiLz4KPC9zdmc+Cg==");
+$icons-carret-2: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODciIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCA4NyAzMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTg2LjI3NTQgMTYuNUw0OC4xOTY3IDMwLjc4OTRMNDguMTk2NyAyLjIxMDU4TDg2LjI3NTQgMTYuNVoiIGZpbGw9ImJsYWNrIi8+CjxwYXRoIGQ9Ik02OCAxNi41TDM1Ljc1IDI5LjA1NzRMMzUuNzUgMy45NDI2M0w2OCAxNi41WiIgZmlsbD0iI0Q0RUJGRiIvPgo8cGF0aCBkPSJNNDguNjM2NyAxNi41TDEyLjczMzkgMzAuNzg5NEwxMi43MzM5IDIuMjEwNThMNDguNjM2NyAxNi41WiIgZmlsbD0iI0Q0RUJGRiIvPgo8L3N2Zz4K");
